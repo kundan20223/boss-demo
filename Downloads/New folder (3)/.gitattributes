@@ -1,2 +1,0 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
-C:/Users/kundankumar/Downloads/demo[[:space:]](2).zip filter=lfs diff=lfs merge=lfs -text
